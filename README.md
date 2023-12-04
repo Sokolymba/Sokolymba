@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sokolymba
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python, sql and statistical methods
-- 💞️ I’m looking to collaborate on any kinds of projects
-- 📫 How to reach me telegram @sokolymba
+- 👋 Hi, I’m Aleksandr
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python, SQL and Data Vizualization tools
+- 📫 You can reach me via telegram @sokolymba
 
 <!---
 Sokolymba/Sokolymba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
